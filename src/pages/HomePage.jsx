@@ -12,7 +12,7 @@ const HomePage = () => {
 
 		<HomeCards />
 		
-		<JobListings />
+		<JobListings isJobsPage={false} />
 
 		<ViewAllJobs />
 	</>
