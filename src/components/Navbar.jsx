@@ -35,7 +35,7 @@ const Navbar = () => {
 									className={({ isActive}) => isActive ? `bg-black ${navlinkClass}` : navlinkClass}
 								>Jobs</NavLink>
 								<NavLink
-									to="/add-job"
+									to="/jobs/add"
 									className={({ isActive}) => isActive ? `bg-black ${navlinkClass}` : navlinkClass}
 								>Add Job</NavLink>
 							</div>
