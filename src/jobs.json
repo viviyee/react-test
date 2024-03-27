@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7160",
+      "type": "Internship",
+      "title": "calling internships",
+      "description": "apply su. you can do it",
+      "salary": "Under $50K",
+      "location": "tokyo",
+      "company": {
+        "name": "an awesome company",
+        "description": "we do ml, ai",
+        "contactEmail": "company@email.com",
+        "contactPhone": "123456"
+      }
     }
   ]
 }
