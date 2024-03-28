@@ -85,15 +85,15 @@
       }
     },
     {
-      "id": "7160",
+      "id": "eb90",
       "type": "Internship",
-      "title": "calling internships",
-      "description": "apply su. you can do it",
+      "title": "Python Developer + go + react",
+      "description": "Su. this job is for you",
       "salary": "Under $50K",
       "location": "tokyo",
       "company": {
         "name": "an awesome company",
-        "description": "we do ml, ai",
+        "description": "we are looking for developers who knows python and go",
         "contactEmail": "company@email.com",
         "contactPhone": "123456"
       }
